@@ -1,0 +1,1343 @@
+
+=================================================================================================================
+
+F80697E9-7FD6-4665-8646-88E33EF71DFC ,   SecurityStubDxe
+
+     ======>    94AB2F58-1438-4EF1-9152-18941A3A0E68 , gEfiSecurity2ArchProtocolGuid                     
+     ======>    15853D7C-3DDF-43E0-A1CB-EBF85B8F872C , gEfiDeferredImageLoadProtocolGuid                 
+
+=================================================================================================================
+
+DE23ACEE-CF55-4FB6-AA77-984AB53DE811 ,   SaInitDxe
+
+     ======>    603DF7CA-1BA8-4C12-A98A-496DFE77EBDF , N/A                                               
+     ======>    3DC21D75-DE0E-4300-A0AA-19C41C0CF3DF , nt_gSaGlobalNvsAreaProtocolGuid                   
+     ======>    9E67AECF-4FBB-4C84-99A5-107340076DB4 , nt_gIgdOpRegionProtocolGuid                       
+
+=================================================================================================================
+
+FE3542FE-C1D3-4EF8-657C-8048606FF670 ,   nt_DriverSampleDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    392744DA-DF68-4C3B-966B-F20F0F47BC23 , N/A                                               
+     ======>    83D72F64-ACDA-4502-8D62-18E34F36B2F6 , N/A                                               
+     ======>    FE3542FE-C1D3-4EF8-657C-8048606FF670 , nt_DriverSampleDxe                                
+     ======>    330D4706-F2A0-4E4F-A369-B66FA8D54385 , gEfiHiiConfigAccessProtocolGuid                   
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+ECA2AE9E-7594-4901-871C-449DA1A11660 ,   I2cDxe
+
+     ======>    ECA2AE9E-7594-4901-871C-449DA1A11660 , I2cDxe                                            
+     ======>    B60A3E6B-18C4-46E5-A29A-C9A10665A28E , gEfiI2cIoProtocolGuid                             
+     ======>    A5AAB9E3-C727-48CD-8BBF-427233854948 , gEfiI2cHostProtocolGuid                           
+     ======>    DA8CD7C4-1C00-49E2-803E-5214E701894C , gEfiI2cEnumerateProtocolGuid                      
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+B0C2372B-9393-4CBC-9CAF-53913C9DCE29 ,   nt_FlashDeviceFvbRuntimeDxe
+
+     ======>    00140704-0000-0000-0000-000000000000 , N/A                                               
+     ======>    5A25CBB6-4DB1-4E08-BA7B-570250EBFC9E , N/A                                               
+
+=================================================================================================================
+
+490D0119-4448-440D-8F5C-F58FB53EE057 ,   PolicyInitDxe
+
+     ======>    ECA27516-306C-4E28-8C94-4E521096695E , nt_gDxeSiPolicyProtocolGuid                       
+     ======>    EC2E931B-3281-48A5-8107-DF8A8BED3C5D , nt_EFI_PLATFORM_GOP_POLICY_PROTOCOL_GUID          
+     ======>    A0B5DC52-4F34-3990-D491-108BE8BA7542 , nt_gDxeMePolicyGuid                               
+     ======>    C6AA1F27-5597-4802-9F63-D62836598635 , nt_gDxeSaPolicyGuid                               
+     ======>    6725E645-4A7F-9969-82EC-D18721DE5A57 , nt_gDxeAmtPolicyGuid                              
+     ======>    9B8A3C14-FE95-4B3B-9F1E-74B1CC008E9E , N/A                                               
+
+=================================================================================================================
+
+DBFAB6C3-6C4B-4E4F-A8FE-AD1C27D5E8BA ,   OFCSmmDriver
+
+     ======>    A618DF46-1B05-463E-A6FD-F43B9BFB27CC , N/A                                               
+
+=================================================================================================================
+
+D93CE3D8-A7EB-4730-8C8E-CC466A9ECC3C ,   ReportStatusCodeRouterRuntimeDxe
+
+     ======>    86212936-0E76-41C8-A03A-2AF2FC1C39E2 , gEfiRscHandlerProtocolGuid                        
+
+=================================================================================================================
+
+53BCC14F-C24F-434C-B294-8ED2D4CC1860 ,   DataHubDxe
+
+     ======>    AE80D021-618E-11D4-BCD7-0080C73C8881 , nt_EFI_DATA_HUB_PROTOCOL_GUID                     
+
+=================================================================================================================
+
+E94F54CD-81EB-47ED-AEC3-856F5DC157A9 ,   nt_PiSmmCore
+
+     ======>    5B1B31A1-9562-11D2-8E3F-00A0C969723B , gEfiLoadedImageProtocolGuid                       
+
+=================================================================================================================
+
+6903A447-CB4F-45F6-89A2-7E7E2F9EE14C ,   nt_InstallMsdm
+
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+C62CEB80-FB40-4A46-A5E5-C1D997C36DFC ,   nt_CapsuleLoaderTriggerDxe
+
+     ======>    F4540D21-18C6-4E74-BC2D-3C6FA08D8BC6 , N/A                                               
+     ======>    142B9A2A-2E71-486F-80BD-5B7BDAC1DEEC , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+FC5C7020-1A48-4198-9BE2-EAD5ABC8CF2F ,   nt_BdsDxe
+
+     ======>    665E3FF6-46CC-11D4-9A38-0090273FC14D , gEfiBdsArchProtocolGuid                           
+     ======>    8BFFF2C1-0BB8-47FD-9F6A-AEC101ACBE6E , N/A                                               
+     ======>    AD9F9ABB-1F89-4C57-A12D-A2DB2DFAF598 , N/A                                               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+     ======>    7183F96C-0AE5-457C-8926-2F852EA7A626 , N/A                                               
+     ======>    CC5B20B9-DA0A-4164-83FE-04BF0802F250 , N/A                                               
+     ======>    6F2F4E41-0710-4AB1-8CDF-2CD15C2346EA , N/A                                               
+     ======>    C9C83B9B-81E7-4D76-A35F-068BC0CB97AE , N/A                                               
+     ======>    3725E246-7CAB-4241-95A3-A560BDF44A6C , N/A                                               
+     ======>    39948F26-F610-4EC3-9728-3ADD9FAC1123 , N/A                                               
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    F4540D21-18C6-4E74-BC2D-3C6FA08D8BC6 , N/A                                               
+     ======>    EF9A3971-C1A0-4A93-BD40-5AA165F2DC3A , nt_CONSOLE_OUT_DEVICES_STARTED_PROTOCOL_GUID      
+     ======>    A9647A1C-1814-44D0-8E75-59A826B233E6 , N/A                                               
+     ======>    6725E645-4A7F-9969-82EC-D18721DE5A57 , nt_gDxeAmtPolicyGuid                              
+     ======>    142B9A2A-2E71-486F-80BD-5B7BDAC1DEEC , N/A                                               
+
+=================================================================================================================
+
+A3527D16-E6CC-42F5-BADB-BF3DE177742B ,   nt_UsbCbi0Dxe
+
+     ======>    8AAFB853-FB0E-4A4D-B1B2-81BA842ED9FC , N/A                                               
+
+=================================================================================================================
+
+AA924214-DFCB-4BEE-AA33-FAE9729AF000 ,   A01ODMSmmServiceDriver
+
+     ======>    D6CA51D1-6E56-4359-9ACA-663A247D39CD , N/A                                               
+
+=================================================================================================================
+
+AC3435BB-B1D3-4EF8-957C-8048606FF671 ,   nt_FrameworkHiiOnUefiHiiThunk
+
+     ======>    5542CCE1-DF5C-4D1B-ABCA-364F77D399FB , nt_EFI_HII_COMPATIBILITY_PROTOCOL_GUID            
+     ======>    0FB7C852-ADCA-4853-8D0F-FBA71B1CE11A , nt_EFI_FORM_BROWSER_COMPATIBILITY_PROTOCOL_GUID   
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+
+=================================================================================================================
+
+03C1F5C8-48F1-416E-A6B6-992DF3BBACA6 ,   A01SmmServiceBody
+
+     ======>    04C04E7F-0276-4D0D-A73F-1DA3C8B708B2 , N/A                                               
+
+=================================================================================================================
+
+9C452F5C-6200-4AA6-8068-F44B4F36D41E ,   H2OKeyDescDxe
+
+     ======>    E911342E-7B6B-4257-83FB-4F0F41D931CA , N/A                                               
+
+=================================================================================================================
+
+B5F33FB5-66D5-4901-BAF1-F0C774FC6588 ,   VgaDriverPolicyDxe
+
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+2892389C-FBE9-43D7-B9FC-6C5D90D18456 ,   TisDxe
+
+     ======>    18D1324C-7C8F-489E-918D-3B7B78605233 , N/A                                               
+
+=================================================================================================================
+
+7FECA3CE-F18C-4DCE-9465-4DEB949298C9 ,   E0014X7
+
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    107A772C-D5E1-11D4-9A46-0090273FC14D , gEfiComponentNameProtocolGuid                     
+     ======>    5C198761-16A8-4E69-972C-89D67954F81D , gEfiDriverSupportedEfiVersionProtocolGuid         
+     ======>    51DD8B21-AD8D-48E9-BC3F-24F46722C748 , N/A                                               
+     ======>    E7B62316-3151-11D6-9F33-0090272813AC , N/A                                               
+     ======>    E3161450-AD0F-11D9-9669-0800200C9A66 , N/A                                               
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    330D4706-F2A0-4E4F-A369-B66FA8D54385 , gEfiHiiConfigAccessProtocolGuid                   
+     ======>    86C77A67-0B97-4633-A187-49104D0685C7 , gEfiFirmwareManagementProtocolGuid                
+
+=================================================================================================================
+
+7D4E94A9-269A-47A1-80F0-2B0EB42F7B4B ,   Int15ServiceSmm
+
+     ======>    3D819F77-AD7D-407D-8D44-E7A61F0CB49C , N/A                                               
+     ======>    1FA493A8-B360-4205-B8FE-CC83BC57B73A , N/A                                               
+
+=================================================================================================================
+
+F9D88642-0737-49BC-81B5-6889CD57D9EA ,   SmbiosDxe
+
+     ======>    03583FF6-CB36-4940-947E-B9B39F4AFAF7 , gEfiSmbiosProtocolGuid                            
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+12AEDBEA-392D-4E2A-8789-5F6DC6B23661 ,   nt_OemBadgingSupportDxe
+
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+     ======>    4B11FF5B-590C-4BFE-96A5-04BC5CCA5C11 , N/A                                               
+
+=================================================================================================================
+
+5479662B-6AE4-49E8-A6BD-6DE4B625811F ,   nt_BiosKeyboardDxe
+
+     ======>    387477C1-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextInProtocolGuid                      
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+C8339973-A563-4561-B858-D8476F9DEFC4 ,   Metronome
+
+     ======>    26BACCB2-6F42-11D4-BCE7-0080C73C8881 , gEfiMetronomeArchProtocolGuid                     
+
+=================================================================================================================
+
+FB62F7F0-5433-11E4-B810-402CF41D8A90 ,   nt_SecureEraseDxe
+
+     ======>    CC9D5C0B-9010-45F1-993C-832767F16777 , nt_gAmtReadyToBootProtocolGuid                    
+     ======>    50AEFF51-368E-11E5-BD89-402CF41D8A90 , nt_gEfiHddPasswordExternalControlProtocolGuid     
+
+=================================================================================================================
+
+CB933912-DF8F-4305-B1F9-7B44FA11395C ,   nt_AcpiPlatform
+
+     ======>    80EFBB27-5462-4338-B6DF-D42214E90FD8 , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+94734718-0BBC-47FB-96A5-EE7A5AE6A2AD ,   nt_Dhcp4Dxe
+
+     ======>    9D9A39D8-BD42-4A73-A4D5-8EE94BE11380 , gEfiDhcp4ServiceBindingProtocolGuid               
+     ======>    8A219718-4EF5-4761-91C8-C0F04BDA9E56 , gEfiDhcp4ProtocolGuid                             
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+4DE9A180-FA40-4899-AB66-4E6325B0315D ,   GpioExpanderDxe
+
+     ======>    00AEDC9D-57FA-4BE4-831E-01178BB120CC , N/A                                               
+
+=================================================================================================================
+
+6FD18837-36E6-46EC-8F61-6730E3E23D50 ,   nt_JhiDxe
+
+     ======>    CCBA3051-A574-4F9D-96F4-EC0D4A87BC5A , nt_gJhiProtocolGuid                               
+
+=================================================================================================================
+
+86EDAAE5-073C-4C89-B949-8984AC8A55F3 ,   SdMmcDevice
+
+     ======>    C88B0B6D-0DFC-49A7-9CB4-49074B4C3A78 , gEfiStorageSecurityCommandProtocolGuid            
+     ======>    593EA8F0-201B-4ADE-B4FF-447078575719 , N/A                                               
+     ======>    964E5B21-6459-11D2-8E39-00A0C969723B , gEfiBlockIoProtocolGuid                           
+     ======>    964E5B21-6459-11D2-8E39-00A0C969723B , gEfiBlockIoProtocolGuid                           
+     ======>    86C77A67-0B97-4633-A187-49104D0685C7 , gEfiFirmwareManagementProtocolGuid                
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+9A9A912B-5F53-4586-8820-704485A29D21 ,   PlatformReset
+
+     ======>    27CFAC88-46CC-11D4-9A38-0090273FC14D , gEfiResetArchProtocolGuid                         
+
+=================================================================================================================
+
+A0BAD9F7-AB78-491B-B583-C52B7F84B9E0 ,   SmmControl
+
+     ======>    843DC720-AB1E-42CB-9357-8A0078F3561B , gEfiSmmControl2ProtocolGuid                       
+
+=================================================================================================================
+
+05F7AA70-A64A-432C-8CEE-4CDECB8671D7 ,   A01ODMDxeDriver
+
+     ======>    754F7701-3C51-4F73-8FEF-314FDFA6DC5B , N/A                                               
+
+=================================================================================================================
+
+CCCB0C28-4B24-11D5-9A5A-0090273FC14D ,   GraphicsConsoleDxe
+
+     ======>    387477C2-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextOutProtocolGuid                     
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+FDFF263D-5F68-4591-87BA-B768F445A9AF ,   Tcg2Dxe
+
+     ======>    607F766C-7455-42BE-930B-E4D76DB2720F , gEfiTrEEProtocolGuid                              
+     ======>    EBAB103E-8906-4DC8-BDD1-A0BC26B1BA86 , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+961578FE-B6B7-44C3-AF35-6BC705CD2B1F ,   Fat
+
+     ======>    964E5B22-6459-11D2-8E39-00A0C969723B , gEfiSimpleFileSystemProtocolGuid                  
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+AD608272-D07F-4964-801E-7BD3B7888652 ,   nt_MonotonicCounterRuntimeDxe
+
+     ======>    1DA97072-BDDC-4B30-99F1-72A0B56FFF2A , gEfiMonotonicCounterArchProtocolGuid              
+
+=================================================================================================================
+
+3935B0A1-A182-4887-BC56-675528E78877 ,   SetupUtilityApp
+
+     ======>    E7A97370-00FF-4BBA-BBA0-D0BC200CCE98 , N/A                                               
+
+=================================================================================================================
+
+062ACC82-1D1E-4F61-AA94-8B0C47236A3D ,   nt_BootScriptSaveOnS3SaveStateThunk
+
+     ======>    062ACC82-1D1E-4F61-AA94-8B0C47236A3D , nt_BootScriptSaveOnS3SaveStateThunk               
+     ======>    470E1529-B79E-4E32-A0FE-6A156D29F9B2 , nt_EFI_BOOT_SCRIPT_SAVE_PROTOCOL_GUID             
+
+=================================================================================================================
+
+60740CF3-D428-4500-80E6-04A5798241ED ,   HstiIhvDxe
+
+     ======>    1B05DE41-C93B-4BB4-AD47-2A78AC0FC9E4 , nt_gHstiProtocolGuid                              
+     ======>    0F500BE6-ECE4-4ED8-9081-9AA9A523FB7B , nt_gHstiPublishCompleteProtocolGuid               
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+
+=================================================================================================================
+
+240612B7-A063-11D4-9A3A-0090273FC14D ,   UsbBusDxe
+
+     ======>    2B2F68CC-0CD2-44CF-8E8B-BBA20B1B5B75 , nt_EFI_USB_BUS_PROTOCOL_GUID                      
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    347B6711-E458-43C8-9636-F173F698B329 , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+31FD7EAF-80A7-435E-8E0A-3F185F8667DD ,   nt_UsbCoreDxe
+
+     ======>    C965C76A-D71E-4E66-AB06-C6230D528425 , N/A                                               
+
+=================================================================================================================
+
+3DC82376-637B-40A6-A8FC-A565417F2C38 ,   nt_Ps2KeyboardDxe
+
+     ======>    387477C1-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextInProtocolGuid                      
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+93B80004-9FB3-11D4-9A3A-0090273FC14D ,   PciBusDxe
+
+     ======>    19CB87AB-2CB9-4665-8360-DDCF6054F79D , gEfiPciHotPlugRequestProtocolGuid                 
+     ======>    30CFE3E7-3DE1-4586-BE20-DEABA1B3B793 , gEfiPciEnumerationCompleteProtocolGuid            
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    4006C0C1-FCB3-403E-996D-4A6C8724E06D , gEfiLoadFile2ProtocolGuid                         
+     ======>    3BC1B285-8A15-4A82-AABF-4D7D13FB3265 , gEfiBusSpecificDriverOverrideProtocolGuid         
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+801ADCA0-815E-46A4-84F7-657F53621A57 ,   nt_SectionExtractionDxe
+
+     ======>    448F5DA4-6DD7-4FE1-9307-69224192215D , nt_EFI_SECTION_EXTRACTION_PROTOCOL_GUID           
+
+=================================================================================================================
+
+408EDCEC-CF6D-477C-A5A8-B4844E3DE281 ,   ConSplitterDxe
+
+     ======>    387477C2-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextOutProtocolGuid                     
+     ======>    387477C1-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextInProtocolGuid                      
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+8D6756B9-E55E-4D6A-A3A5-5E4D72DDF772 ,   PciHostBridge
+
+     ======>    CF8034BE-6768-4D8B-B739-7CCE683A9FBE , gEfiPciHostBridgeResourceAllocationProtocolGuid   
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+
+=================================================================================================================
+
+760F874E-B8CB-405E-AA32-A46AE2F3D680 ,   nt_VariableDefaultUpdate
+
+     ======>    B701CFAE-4DD4-42FF-AE96-F21467A92B3C , N/A                                               
+
+=================================================================================================================
+
+8C87E0A0-B390-4BE3-819C-7C6C83CAE4EB ,   nt_SmmBaseHelper
+
+     ======>    910DCA07-1F94-4EE7-AF2F-FF72F3154353 , nt_EFI_SMM_BASE_HELPER_READY_PROTOCOL_GUID        
+
+=================================================================================================================
+
+C937B8BF-ECEB-4F42-907E-37A5D4C17B9D ,   CompalEepromDxe
+
+     ======>    076F54EC-C230-4FEC-BD0F-2FC7D398E3A2 , N/A                                               
+
+=================================================================================================================
+
+525B672C-8C8F-0361-AE8E-565EE0F563B8 ,   MemInfoDxe
+
+     ======>    D4D2F201-50E8-4D45-8E05-FD49A82A1569 , nt_gMemInfoProtocolGuid                           
+
+=================================================================================================================
+
+BDFE430E-8F2A-4DB0-9991-6F856594777E ,   EhciDxe
+
+     ======>    3E745226-9818-45B6-A2AC-D7CD0E8BA2BC , gEfiUsb2HcProtocolGuid                            
+     ======>    152D34B7-B4B6-4B26-970F-1EC3D99D0A84 , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+F122A15C-C10B-4D54-8F48-60F4F06DD1AD ,   nt_LegacyBiosDxe
+
+     ======>    DB9A1E3D-45CB-4ABB-853B-E5387FDB2E2D , nt_EFI_LEGACY_BIOS_PROTOCOL_GUID                  
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+21CCF0B7-246B-412C-A334-0B65A07B28DF ,   nt_SmmBaseOnSmmBase2Thunk
+
+     ======>    1390954D-DA95-4227-9328-7282C217DAA8 , nt_EFI_SMM_BASE_PROTOCOL_GUID                     
+
+=================================================================================================================
+
+BDFE5FAA-2A35-44BB-B17A-8084D4E2B9E9 ,   nt_FvbServicesRuntimeDxe
+
+     ======>    145F21AB-D92C-4EAB-AB1E-5D24B90C3C6C , N/A                                               
+     ======>    8F644FA9-E850-4DB1-9CE2-0B44698E8DA4 , gEfiFirmwareVolumeBlockProtocolGuid               
+     ======>    F496922D-172F-4BBC-A1EB-0EEB949C3486 , nt_EFI_ALTERNATE_FV_BLOCK_GUID                    
+     ======>    DB122AC0-19E2-497E-9FDF-EE800ECBC57F , N/A                                               
+
+=================================================================================================================
+
+348C4D62-BFBD-4882-9ECE-C80BB1C4783B ,   HiiDatabase
+
+     ======>    E9CA4775-8657-47FC-97E7-7ED65A084324 , gEfiHiiFontProtocolGuid                           
+     ======>    31A6406A-6BDF-4E46-B2A2-EBAA89C40920 , gEfiHiiImageProtocolGuid                          
+     ======>    348C4D62-BFBD-4882-9ECE-C80BB1C4783B , HiiDatabase                                       
+
+=================================================================================================================
+
+CBD2E4D5-7068-4FF5-B462-9822B4AD8D60 ,   nt_FILE_GUID
+
+     ======>    1E5668E2-8481-11D4-BCF1-0080C73C8881 , gEfiVariableArchProtocolGuid                      
+     ======>    CD3D0A05-9E24-437C-A891-1EE053DB7638 , nt_EDKII_VARIABLE_LOCK_PROTOCOL                   
+     ======>    AF23B340-97B4-4685-8D4F-A3F28169B21D , nt_EDKII_VAR_CHECK_PROTOCOL                       
+     ======>    5EB95B0A-D085-4A18-9E41-8EBDA79F30C8 , N/A                                               
+     ======>    ED32D533-99E6-4209-9CC0-2D72CDD998A7 , nt_EFI_SMM_VARIABLE_PROTOCOL_GUID                 
+     ======>    257A9418-CB21-4B4B-B392-C9DC32C27594 , N/A                                               
+     ======>    173F9091-44B6-43BE-9D65-98947BD9B9D7 , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+4F921013-4F71-4C6C-BCF8-419B2B801932 ,   nt_SetupBrowser2
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    B9D4C360-BCFB-4F9B-9298-53C136982258 , gEfiFormBrowser2ProtocolGuid                      
+     ======>    1F73B18D-4630-43C1-A1DE-6F80855D7DA4 , nt_FORM_BROWSER_EXTENSION_PROTOCOL_GUID           
+     ======>    3634B8F9-D032-4F21-A989-31ADF05F0012 , N/A                                               
+     ======>    B43DB6FC-0B92-4EAD-A590-CBA6DB2AECCC , N/A                                               
+     ======>    AAB3064F-56D9-46A3-8EBA-1B188E7F835A , N/A                                               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+C642C14C-0E9C-4AEF-94A5-A213BAA35DE0 ,   HstiResultDxe
+
+     ======>    F429C00A-9640-46B3-9544-F8F86A28F30F , nt_gPlatformConfigChangeProtocolGuid              
+
+=================================================================================================================
+
+2818256A-6BDB-4871-993C-95315854012E ,   EdidOverrideDxe
+
+     ======>    48ECB431-FB72-45C0-A922-F458FE040BD5 , gEfiEdidOverrideProtocolGuid                      
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+B55A4515-5895-4EA8-845B-75B7480F6502 ,   nt_SmmControl2OnSmmControlThunk
+
+     ======>    843DC720-AB1E-42CB-9357-8A0078F3561B , gEfiSmmControl2ProtocolGuid                       
+
+=================================================================================================================
+
+2EC499F9-0337-4DA1-91CA-6BC4E8C03DA2 ,   nt_Mtftp6Dxe2
+
+     ======>    D9760FF3-3CCA-4267-80F9-7527FAFA4223 , gEfiMtftp6ServiceBindingProtocolGuid              
+     ======>    BF0A78BA-EC29-49CF-A1C9-7AE54EAB6A51 , gEfiMtftp6ProtocolGuid                            
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+EF33C296-F64C-4146-AD04-347899702C84 ,   nt_SmmUsbLegacyDxe
+
+     ======>    55668581-8FC2-4717-930F-04C118955434 , N/A                                               
+
+=================================================================================================================
+
+03068297-DDA5-4CCD-BBFA-7E09AE025177 ,   I2cTouchPanelDxe
+
+     ======>    8D59D32B-C655-4AE9-9B15-F25904992A43 , gEfiAbsolutePointerProtocolGuid                   
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+043DF38F-32E1-4893-911F-37A7FE91F723 ,   CapsuleProcessorDxe
+
+     ======>    86C77A67-0B97-4633-A187-49104D0685C7 , gEfiFirmwareManagementProtocolGuid                
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+3ACC966D-8E33-45C6-B4FE-62724BCD15A9 ,   nt_AhciBusDxe
+
+     ======>    D432A67F-14DC-484B-B3BB-3F0291849327 , gEfiDiskInfoProtocolGuid                          
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    36CBCA7D-E29C-4D23-BC52-E1F7A3A4E1F5 , N/A                                               
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    143B7632-B81B-4CB7-ABD3-B625A5B9BFFE , gEfiExtScsiPassThruProtocolGuid                   
+     ======>    1D3DE7F0-0807-424F-AA69-11A54E19A46F , gEfiAtaPassThruProtocolGuid                       
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+B795675E-7583-4F98-AC6A-F9DDBBCC32E8 ,   SystemFirmwareManagementRuntimeDxe
+
+     ======>    86C77A67-0B97-4633-A187-49104D0685C7 , gEfiFirmwareManagementProtocolGuid                
+
+=================================================================================================================
+
+F099D67F-71AE-4C36-B2A3-DCEB0EB2B7D8 ,   WatchdogTimer
+
+     ======>    665E3FF5-46CC-11D4-9A38-0090273FC14D , gEfiWatchdogTimerArchProtocolGuid                 
+
+=================================================================================================================
+
+378D7B65-8DA9-4773-B6E4-A47826A833E1 ,   PcRtc
+
+     ======>    27CFAC87-46CC-11D4-9A38-0090273FC14D , gEfiRealTimeClockArchProtocolGuid                 
+
+=================================================================================================================
+
+5BEDB5CC-D830-4EB2-8742-2D4CC9B54F2C ,   nt_Ip6Dxe
+
+     ======>    2C8759D5-5C2D-66EF-925F-B66C101957E2 , gEfiIp6ProtocolGuid                               
+     ======>    EC835DD3-FE0F-617B-A621-B350C3E13388 , gEfiIp6ServiceBindingProtocolGuid                 
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+1967DD9B-B72C-4328-8C80-D4ACFC83FDF8 ,   PciHotPlugDxe
+
+     ======>    AA0E8BC1-DABC-46B0-A844-37B8169B2BEA , gEfiPciHotPlugInitProtocolGuid                    
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+42857F0A-13F2-4B21-8A23-53D3F714B840 ,   CapsuleRuntimeDxe
+
+     ======>    5053697E-2CBC-4819-90D9-0580DEEE5754 , gEfiCapsuleArchProtocolGuid                       
+     ======>    F4540D21-18C6-4E74-BC2D-3C6FA08D8BC6 , N/A                                               
+     ======>    142B9A2A-2E71-486F-80BD-5B7BDAC1DEEC , N/A                                               
+
+=================================================================================================================
+
+E1CEE6E3-6C42-4A4F-916E-38385290A556 ,   nt_SnpDxe_
+
+     ======>    A19832B9-AC25-11D3-9A2D-0090273FC14D , gEfiSimpleNetworkProtocolGuid                     
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+025BBFC7-E6A9-4B8B-82AD-6815A1AEAF4A ,   nt_MnpDxe
+
+     ======>    9E23D768-D2F3-4366-9FC3-3A7ABA864374 , gEfiVlanConfigProtocolGuid                        
+     ======>    7AB33A91-ACE5-4326-B572-E7EE33D39F16 , gEfiManagedNetworkProtocolGuid                    
+     ======>    F36FF770-A7E1-42CF-9ED2-56F0F271F44C , gEfiManagedNetworkServiceBindingProtocolGuid      
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+2FA2A6DA-11D5-4DC3-999A-749648B03C56 ,   PiSmmIpl
+
+     ======>    F4CCBFB7-F6E0-47FD-9DD4-10A8F150C191 , gEfiSmmBase2ProtocolGuid                          
+
+=================================================================================================================
+
+51739E2A-A022-4D73-ADB9-91F0C9BC7142 ,   nt_MpServicesOnFrameworkMpServicesThunk
+
+     ======>    3FDDA605-A76E-4F46-AD29-12F4531B3D08 , gEfiMpServiceProtocolGuid                         
+
+=================================================================================================================
+
+E2A5ECED-DE4C-432D-9AA0-061C33A308C8 ,   A01DataServiceBodyDxe
+
+     ======>    B3C64BAC-6FA2-485F-9697-B512943F9E1A , N/A                                               
+
+=================================================================================================================
+
+E8DDEB8B-82D7-4B6E-A2B4-D5EAEC2B8976 ,   nt_IrsiRegistrationRuntimeDxe
+
+     ======>    1C2E4602-E3BA-4B07-E3B8-3555A51C613A , N/A                                               
+
+=================================================================================================================
+
+F0F1588E-9028-4EB8-8031-F233B48EA0B7 ,   PxeDummyDxe
+
+     ======>    F36FF770-A7E1-42CF-9ED2-56F0F271F44C , gEfiManagedNetworkServiceBindingProtocolGuid      
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    EC835DD3-FE0F-617B-A621-B350C3E13388 , gEfiIp6ServiceBindingProtocolGuid                 
+     ======>    8A219718-4EF5-4761-91C8-C0F04BDA9E56 , gEfiDhcp4ProtocolGuid                             
+     ======>    F0F1588E-9028-4EB8-8031-F233B48EA0B7 , PxeDummyDxe                                       
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    C51711E7-B4BF-404A-BFB8-0A048EF1FFE4 , gEfiIp4ServiceBindingProtocolGuid                 
+
+=================================================================================================================
+
+0B04B2ED-861C-42CD-A22F-C3AAFACCB896 ,   BiosVideoDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    9042A9DE-23DC-4A38-96FB-7ADED080516A , gEfiGraphicsOutputProtocolGuid                    
+     ======>    C7735A2F-88F5-4882-AE63-FAAC8C8B86B3 , nt_EFI_VGA_MINI_PORT_PROTOCOL_GUID                
+     ======>    2E3044AC-879F-490F-9760-BBDFAF695F50 , nt_EFI_LEGACY_BIOS_GUID                           
+     ======>    2876CB69-F5E2-41BF-B169-0CF0DDE5668B , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+5BE3BDF4-53CF-46A3-A6A9-73C34A6E5EE3 ,   NvmExpressDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    C88B0B6D-0DFC-49A7-9CB4-49074B4C3A78 , gEfiStorageSecurityCommandProtocolGuid            
+     ======>    52C78312-8EDC-4233-98F2-1A1AA5E388A5 , gEfiNvmExpressPassThruProtocolGuid                
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    5C198761-16A8-4E69-972C-89D67954F81D , gEfiDriverSupportedEfiVersionProtocolGuid         
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+013A65AC-DB4E-4119-CEA6-9A31982CAE96 ,   ABCTDxe
+
+     ======>    466FEA10-546D-4EE5-9532-A1FF081170CE , N/A                                               
+
+=================================================================================================================
+
+13863F79-D94B-4205-BB0F-E4E06AAA5A4E ,   DelayUefiRaidOprom
+
+     ======>    E553A1E3-E26E-4EDF-8AE1-E3ED9357AF56 , N/A                                               
+     ======>    6B30C738-A391-11D4-9A3B-0090273FC14D , gEfiPlatformDriverOverrideProtocolGuid            
+     ======>    D432A67F-14DC-484B-B3BB-3F0291849327 , gEfiDiskInfoProtocolGuid                          
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+42FCB444-B881-49D8-A6E9-5A1695FC9F3E ,   nt_SysPassword
+
+     ======>    55D662CE-2EC6-4451-A305-BA06B50786C5 , acer_SysPassword                                  
+
+=================================================================================================================
+
+356C2B12-3124-4451-BF66-B502D88A0074 ,   nt_XhciDxe_
+
+     ======>    3E745226-9818-45B6-A2AC-D7CD0E8BA2BC , gEfiUsb2HcProtocolGuid                            
+     ======>    152D34B7-B4B6-4B26-970F-1EC3D99D0A84 , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+5AAB83E5-F027-4CA7-BFD0-16358CC9E453 ,   WdtDxe
+
+     ======>    B42B8D12-2ACB-499A-A920-DD5BE6CF09B1 , nt_WDT_PROTOCOL_GUID                              
+     ======>    3A3300AB-C929-487D-AB34-159BC13562C0 , nt_PCH_RESET_CALLBACK_PROTOCOL_GUID               
+
+=================================================================================================================
+
+51CCF399-4FDF-4E55-A45B-E123F84D456A ,   ConPlatformDxe
+
+     ======>    D3B36F2B-D551-11D4-9A46-0090273FC14D , nt_EFI_CONSOLE_IN_DEVICE_GUID                     
+     ======>    D3B36F2C-D551-11D4-9A46-0090273FC14D , nt_EFI_CONSOLE_OUT_DEVICE_GUID                    
+     ======>    D3B36F2D-D551-11D4-9A46-0090273FC14D , nt_EFI_STANDARD_ERROR_DEVICE_GUID                 
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+78D19E50-2B62-407F-9F49-C652A4124002 ,   VariableRegionInfoDxe
+
+     ======>    5A25CBB6-4DB1-4E08-BA7B-570250EBFC9E , N/A                                               
+
+=================================================================================================================
+
+BB1FBD4F-2E30-4793-9BED-74F672BC8FFE ,   PchReset
+
+     ======>    DB63592C-B8CC-44C8-918C-51F534598A5A , nt_PCH_RESET_PROTOCOL_GUID                        
+
+=================================================================================================================
+
+B7358BEB-6A52-4D50-98F9-7EDD70B4B320 ,   nt_CommonPciPlatformDxe
+
+     ======>    07D75280-27D4-4D69-90D0-5643E238B341 , gEfiPciPlatformProtocolGuid                       
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+ED92EAE0-C31C-4824-8802-35595EFA8287 ,   WpbtDxe
+
+     ======>    720AD23B-0375-43E8-8934-FC7513DBBA39 , N/A                                               
+
+=================================================================================================================
+
+40008162-93D0-48F2-80DA-7E32F4C98F8B ,   nt_Udp6Dxe_
+
+     ======>    66ED4721-3C98-4D3E-81E3-D03DD39A7254 , gEfiUdp6ServiceBindingProtocolGuid                
+     ======>    4F948815-B4B9-43CB-8A33-90E060B34955 , gEfiUdp6ProtocolGuid                              
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+0C8823D5-93FB-485C-AAFA-FA7B6BF0A27F ,   CompalEepromSmm
+
+     ======>    46632A76-FAB0-4BED-8F4A-A9CA0B5EA968 , N/A                                               
+
+=================================================================================================================
+
+33FB3535-F15E-4C17-B303-5EB94595ECB6 ,   nt_SmmLockBox
+
+     ======>    BD445D79-B7AD-4F04-9AD8-29BD2040EB3C , nt_EFI_LOCK_BOX_PROTOCOL_GUID                     
+
+=================================================================================================================
+
+E8571188-00C1-4ED4-B14E-E38451351EC4 ,   nt_HddPassword
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    9C0C75AB-0FA5-436C-850C-F073CD8E1B17 , N/A                                               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+2D2E62CF-9ECF-43B7-8219-94E7FC713DFE ,   UsbKbDxe
+
+     ======>    387477C1-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextInProtocolGuid                      
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    856F2DEF-4E93-4D6B-94CE-1CFE47013EA5 , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+220E57C8-4E71-493F-91B8-0F7F820A1DA2 ,   I2cMouseDxe
+
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+69FD8E47-A161-4550-B01A-5594CEB2B2B2 ,   nt_IdeBusDxe
+
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    99DD4395-D161-4440-95BE-327EC006D2B7 , N/A                                               
+     ======>    E778C047-2121-4AD1-8236-090740619F05 , N/A                                               
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    1D3DE7F0-0807-424F-AA69-11A54E19A46F , gEfiAtaPassThruProtocolGuid                       
+     ======>    143B7632-B81B-4CB7-ABD3-B625A5B9BFFE , gEfiExtScsiPassThruProtocolGuid                   
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+529D3F93-E8E9-4E73-B1E1-BDF6A9D50113 ,   nt_ArpDxe
+
+     ======>    F4B427BB-BA21-4F16-BC4E-43E416AB619C , gEfiArpProtocolGuid                               
+     ======>    F44C00EE-1F2C-4A00-AA09-1C9F3E0800A3 , gEfiArpServiceBindingProtocolGuid                 
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+E2441B64-7EF4-41FE-B3A3-8CAA7F8D3017 ,   nt_PciPlatformDxe
+
+     ======>    BA2E7D85-F570-0361-822E-265DFDB7CF01 , N/A                                               
+     ======>    07D75280-27D4-4D69-90D0-5643E238B341 , gEfiPciPlatformProtocolGuid                       
+
+=================================================================================================================
+
+B8FE3D49-DCF3-4CBB-8070-47B4F5A34559 ,   GopDebugDxe
+
+     ======>    EBA4E8D2-3858-41EC-A281-2647BA9660D0 , gEfiDebugPortVariableGuid                         
+
+=================================================================================================================
+
+0BB51CDD-A750-442F-A15E-7DEADFBA30FF ,   nt_Mtftp4Dxe2
+
+     ======>    2FE800BE-8F01-4AA6-946B-D71388E1833F , gEfiMtftp4ServiceBindingProtocolGuid              
+     ======>    78247C57-63DB-4708-99C2-A8B4A9A61F6B , gEfiMtftp4ProtocolGuid                            
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+1353DE63-B74A-4BEF-80FD-2C5CFA83040B ,   nt_GifDecoderDxe
+
+     ======>    D3E104CB-D03E-44B3-85CF-13067484CB11 , N/A                                               
+
+=================================================================================================================
+
+70D57D67-7F05-494D-A014-B75D7345B700 ,   StorageSecurityCommandDxe
+
+     ======>    C88B0B6D-0DFC-49A7-9CB4-49074B4C3A78 , gEfiStorageSecurityCommandProtocolGuid            
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+240612B5-A063-11D4-9A3A-0090273FC14D ,   nt_IsaBusDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+954E2958-EBB2-4687-B98F-844DF4FAC63A ,   CompalSsidSvidDxeProgram
+
+     ======>    E7273837-B16A-4512-AAA9-7095F01B24A0 , N/A                                               
+
+=================================================================================================================
+
+9C7CCB02-9154-4864-9E4B-DC0487E37660 ,   nt_DhcpDummyDxe
+
+     ======>    8A219718-4EF5-4761-91C8-C0F04BDA9E56 , gEfiDhcp4ProtocolGuid                             
+     ======>    87C8BAD7-0595-4053-8297-DEDE395F5D5B , gEfiDhcp6ProtocolGuid                             
+     ======>    9D9A39D8-BD42-4A73-A4D5-8EE94BE11380 , gEfiDhcp4ServiceBindingProtocolGuid               
+     ======>    9FB9A8A1-2F4A-43A6-889C-D0F7B6C47AD5 , gEfiDhcp6ServiceBindingProtocolGuid               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+440C38B7-ED16-49EA-9669-317EF906635D ,   I2cMasterDxe
+
+     ======>    CD72881F-45B5-4FEB-98C8-313DA8117462 , gEfiI2cMasterProtocolGuid                         
+
+=================================================================================================================
+
+EDB396E3-2DDC-4396-BCA5-1202D3005AEA ,   Tcg2PhysicalPresenceDxe
+
+     ======>    469718DF-6F19-43E7-903B-EA6B035555BB , N/A                                               
+     ======>    AAB3064F-56D9-46A3-8EBA-1B188E7F835A , N/A                                               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+A5683620-7998-4BB2-A377-1C1E31E1E215 ,   nt_TcgDxe
+
+     ======>    F541796D-A62E-4954-A775-9584F61B9CDD , gEfiTcgProtocolGuid                               
+
+=================================================================================================================
+
+88EA1FCB-3A5D-4ACF-A0B3-AACB36D4E90F ,   UsbLegacyControlSmm
+
+     ======>    3084D2BD-F589-4BE1-8EF0-26C6D68A1BC8 , N/A                                               
+
+=================================================================================================================
+
+A6885402-D022-4B0E-A509-4711B90F2A39 ,   nt_ReportStatusCodeRouterSmm
+
+     ======>    6AFD2B77-98C1-4ACD-A6F9-8A9439DE0FB1 , gEfiSmmStatusCodeProtocolGuid                     
+
+=================================================================================================================
+
+93B80003-9FB3-11D4-9A3A-0090273FC14D ,   nt_IsaSerialDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+67BBC344-84BC-4E5C-B4DF-F5E4A00E1F3A ,   SdHostDriver
+
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    296D31A3-59A3-432A-A405-37BD628C6AFE , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+69F04F6E-BCCF-45F8-894E-2C68088F94FF ,   I2cKbDxe
+
+     ======>    387477C1-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextInProtocolGuid                      
+     ======>    856F2DEF-4E93-4D6B-94CE-1CFE47013EA5 , N/A                                               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+2BDED685-F733-455F-A840-43A22B791FB3 ,   AcpiS3SaveDxe
+
+     ======>    125F2DE1-FB85-440C-A54C-4D99358A8D38 , nt_EFI_ACPI_S3_SAVE_GUID                          
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+CC243581-112F-441C-815D-6D8DB3659619 ,   A01D2DRecoveryDriver
+
+     ======>    AF7C9089-A2DD-485D-9C80-6246B397AC08 , N/A                                               
+
+=================================================================================================================
+
+1FA1F39E-FEFF-4AAE-BD7B-38A070A3B609 ,   PartitionDxe
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+842546AF-5AEA-40DB-8695-42E52575CA45 ,   A01DataServiceBodySmm
+
+     ======>    E56D11C4-5E78-4610-9C73-CD9A0A63E096 , N/A                                               
+
+=================================================================================================================
+
+EEC9BC9A-2907-4D59-8B86-D1EC67DE62E1 ,   GenericMemoryTestDxe
+
+     ======>    64C475EF-344B-492C-93AD-AB9EB4395004 , nt_EFI_COMPATIBLE_MEMORY_TESTED_PROTOCOL_GUID     
+     ======>    309DE7F1-7F5E-4ACE-B49C-531BE5AA95EF , nt_EFI_GENERIC_MEMORY_TEST_PROTOCOL_GUID          
+
+=================================================================================================================
+
+B40612B9-A063-11D4-9A3A-0090273FC14D ,   nt_UsbBotDxe
+
+     ======>    8AAFB853-FB0E-4A4D-B1B2-81BA842ED9FC , N/A                                               
+
+=================================================================================================================
+
+2D6BB83D-84A2-404A-B4CA-3E7AC0EFB3D2 ,   nt_BootOptionPolicyDxe
+
+     ======>    0E664C9F-8D6A-4763-8FED-CB61C376232D , N/A                                               
+
+=================================================================================================================
+
+3D2F8940-A850-4543-B294-9B0BD0E750C7 ,   HstiDxe
+
+     ======>    E5DD1403-D622-C24E-8488-C71B17F5E802 , gEfiAdapterInformationProtocolGuid                
+
+=================================================================================================================
+
+CBF486B7-D196-4C03-AFE2-33F38E64DA16 ,   IntegratedTouch
+
+     ======>    2B12E46F-3C24-47FF-8B89-C0602C1C6132 , N/A                                               
+     ======>    5C198761-16A8-4E69-972C-89D67954F81D , gEfiDriverSupportedEfiVersionProtocolGuid         
+     ======>    8D59D32B-C655-4AE9-9B15-F25904992A43 , gEfiAbsolutePointerProtocolGuid                   
+     ======>    3D0479C1-6B19-4191-B809-6008DD0797A0 , nt_gIntegratedTouchHidProtocolGuid                
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+4C862FC6-0E54-4E36-8C8F-FF6F3167951F ,   nt_FtwLiteDxe
+
+     ======>    3F557189-8DAE-45AE-A0B3-2B99CA7AA7A0 , nt_EFI_FTW_LITE_PROTOCOL_GUID                     
+
+=================================================================================================================
+
+94E24C26-80FA-427D-80FB-E374E9E9BF85 ,   nt_Dhcp6
+
+     ======>    9FB9A8A1-2F4A-43A6-889C-D0F7B6C47AD5 , gEfiDhcp6ServiceBindingProtocolGuid               
+     ======>    87C8BAD7-0595-4053-8297-DEDE395F5D5B , gEfiDhcp6ProtocolGuid                             
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+AE724F8D-62C6-4638-A065-0138F47B6D23 ,   nt_UefiPxeBcDxe_
+
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    A19832B9-AC25-11D3-9A2D-0090273FC14D , gEfiSimpleNetworkProtocolGuid                     
+     ======>    B95E9FDA-26DE-48D2-8807-1F9107AC5E3A , nt_UefiPxeBcDxe                                   
+     ======>    245DCA21-FB7B-11D3-8F01-00A0C969723B , gEfiPxeBaseCodeCallbackProtocolGuid               
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    BE465124-99B2-471D-B5C0-38B92369D858 , N/A                                               
+
+=================================================================================================================
+
+506533A6-E626-4500-B14F-17939C0E5B60 ,   nt_AcpiSupportDxe
+
+     ======>    FFE06BDD-6107-46A6-7BB2-5A9C7EC5275C , gEfiAcpiTableProtocolGuid                         
+
+=================================================================================================================
+
+D7B10D4E-67E6-4C74-83E9-F9AF0ACC33CC ,   PchLateInitSmm
+
+     ======>    0D66A1CF-79AD-494B-978B-B25981689334 , nt_gPchPcieIoTrapProtocolGuid                     
+
+=================================================================================================================
+
+4AC99A7C-1DCF-4A51-8F06-5EEDFE8A8864 ,   nt_CryptoServiceRuntimeDxe
+
+     ======>    42881C98-A4F3-44B0-A39D-DFA18667D8CD , gEfiHashServiceBindingProtocolGuid                
+     ======>    C5184932-DBA5-46DB-A5BA-CC0BDA9C1435 , gEfiHashProtocolGuid                              
+     ======>    55B1D734-C5E1-49DB-9647-B16AFB0E305B , gEfiHash2ProtocolGuid                             
+
+=================================================================================================================
+
+2DE2AE4B-7489-4D91-9B63-9B12CC564540 ,   A01ServiceBodyDxe
+
+     ======>    4984C644-3E96-4152-ACA0-4EA278EAEF4E , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+C7D4F4E3-DAEA-40B0-8846-F4CAF3135CE8 ,   nt_BiosProtectDxe
+
+     ======>    D088A413-0A70-4217-BA55-9A3CB65C41B3 , nt_EXIT_PM_AUTH_PROTOCOL                          
+     ======>    60FF8964-E906-41D0-AFED-F241E974E08E , gEfiDxeSmmReadyToLockProtocolGuid                 
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+F84CFFF4-511E-41C8-B829-519F5152F444 ,   nt_LegacyBiosPlatformDxe
+
+     ======>    C640276E-DD54-41D5-A089-41773A3EF97D , N/A                                               
+     ======>    783658A3-4172-4421-A299-E009079C0CB4 , nt_EFI_LEGACY_BIOS_PLATFORM_PROTOCOL_GUID         
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+38A0EC22-FBE7-4911-8BC1-176E0D6C1DBD ,   nt_IsaAcpi
+
+     ======>    64A892DC-5561-4536-92C7-799BFC183355 , nt_EFI_ISA_ACPI_PROTOCOL_GUID                     
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+B601F8C4-43B7-4784-95B1-F4226CB40CEE ,   RuntimeDxe
+
+     ======>    B7DFB4E1-052F-449F-87BE-9818FC91B733 , gEfiRuntimeArchProtocolGuid                       
+
+=================================================================================================================
+
+9FB4B4A7-42C0-4BCD-8540-9BCC6711F83E ,   UsbMassStorageDxe
+
+     ======>    964E5B21-6459-11D2-8E39-00A0C969723B , gEfiBlockIoProtocolGuid                           
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+8029A5B5-4088-48D2-96E0-F7052BC0A842 ,   PttHciSmm
+
+     ======>    3BFFECFD-D75F-4975-B888-3902BD69002B , nt_gMeGlobalNvsAreaProtocolGuid                   
+
+=================================================================================================================
+
+5007A40E-A5E0-44F7-86AE-662F9A91DA26 ,   FvOnFv2Thunk
+
+     ======>    389F751F-1838-4388-8390-CD8154BD27F8 , nt_EFI_FIRMWARE_VOLUME_PROTOCOL_GUID              
+
+=================================================================================================================
+
+B8E62775-BB0A-43F0-A843-5BE8B14F8CCD ,   BootGraphicsResourceTableDxe
+
+     ======>    CDEA2BD3-FC25-4C1C-B97C-B31186064990 , nt_EFI_BOOT_LOGO_PROTOCOL_GUID                    
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+B273CC44-E62A-41DC-9CAD-BDB4235459D8 ,   nt_UnicodeCollationDxe
+
+     ======>    A4C751FC-23AE-4C3E-92E9-4964CF63F349 , gEfiUnicodeCollation2ProtocolGuid                 
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+
+=================================================================================================================
+
+99FAB6EA-648B-6EAC-3EEA-5A16EEA64C3E ,   A01UnlockPassword
+
+     ======>    1EEBA526-64E3-42FE-ABF2-84156648AEB6 , acer_a01unlockPassword                            
+
+=================================================================================================================
+
+BF89F10D-B205-474F-96E3-7A7BB1B4A407 ,   nt_VgaClassDxe
+
+     ======>    387477C2-69C7-11D2-8E39-00A0C969723B , gEfiSimpleTextOutProtocolGuid                     
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+D6A2CB7F-6A18-4E2F-B43B-9920A733700A ,   nt_DxeCore
+
+     ======>    76B6BDFA-2ACD-4462-9E3F-CB58C969D937 , nt_PERFORMANCE_PROTOCOL_GUID                      
+
+=================================================================================================================
+
+74D936FA-D8BD-4633-B64D-6424BDD23D24 ,   nt_FwBlockServiceSmm
+
+     ======>    3AEAEC5F-945A-4BA5-AB98-BC230497B98D , N/A                                               
+     ======>    2970687C-618C-4DE5-B8F9-6C7576DCA83D , N/A                                               
+
+=================================================================================================================
+
+6B38F7B4-AD98-40E9-9093-ACA2B5A253C4 ,   DiskIoDxe
+
+     ======>    CE345171-BA0B-11D2-8E4F-00A0C969723B , gEfiDiskIoProtocolGuid                            
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+B0A034CF-41CE-4104-8ED3-4F97E8ADB981 ,   SioDummyDxe
+
+     ======>    4C7632F0-3DC2-11E1-B86C-0800200C9A66 , N/A                                               
+     ======>    46EE8A89-C3AB-4B35-AEC1-4918E56B091C , N/A                                               
+
+=================================================================================================================
+
+E052D8A6-224A-4C32-8D37-2E0AE162364D ,   PchSmbusDxe
+
+     ======>    E49D33ED-513D-4634-B698-6F55AA751C1B , gEfiSmbusHcProtocolGuid                           
+
+=================================================================================================================
+
+6D6963AB-906D-4A65-A7CA-BD40E5D6AF2B ,   nt_Udp4Dxe
+
+     ======>    83F01464-99BD-45E5-B383-AF6305D8E9E6 , gEfiUdp4ServiceBindingProtocolGuid                
+     ======>    3AD9DF29-4501-478D-B1F8-7F7FE70E50F3 , gEfiUdp4ProtocolGuid                              
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+0BBC6CAB-F228-4F20-8C6A-847CDEE3FF24 ,   OFCDxeDriver
+
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+880AE5C9-FA45-9B63-7489-9B12CC564540 ,   AcerBIOSConfigurationToolDxe
+
+     ======>    6C4D6421-CAEA-7556-12FC-6896ACFF3289 , N/A                                               
+
+=================================================================================================================
+
+55E76644-78A5-4A82-A900-7126A5798892 ,   HeciInit
+
+     ======>    3C7BC880-41F8-4869-AEFC-870A3ED28299 , nt_gHeciProtocolGuid                              
+     ======>    8D9B3387-73DB-456F-889D-6FFE90826409 , N/A                                               
+
+=================================================================================================================
+
+1323C7F8-DAD5-4126-A54B-7A05FBF41515 ,   SmmAccess
+
+     ======>    C2702B74-800C-4131-8746-8FB5B89CE4AC , gEfiSmmAccess2ProtocolGuid                        
+
+=================================================================================================================
+
+F7731B4C-58A2-4DF4-8980-5645D39ECE58 ,   PowerMgmtDxe
+
+     ======>    D71DB106-E32D-4225-BFF4-DE6D77871761 , nt_EFI_PPM_INFO_PROTOCOL_GUID                     
+
+=================================================================================================================
+
+CE366D33-B057-4C03-8561-CAF17738B66F ,   WdtAppDxe
+
+     ======>    92C7D0BB-679E-479D-878D-D4B82968578B , nt_WDT_APP_PROTOCOL_GUID                          
+
+=================================================================================================================
+
+96107C8E-9490-4767-9D0D-5590F1F6E1FC ,   nt_PhysicalPresenceDxe
+
+     ======>    15F81FC9-9304-407B-89C4-2CAC358610A7 , N/A                                               
+     ======>    AAB3064F-56D9-46A3-8EBA-1B188E7F835A , N/A                                               
+     ======>    301DC83E-B533-4E1F-83CC-F3A6196457AA , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+A368D636-4C77-4B50-AAE8-F99E2DA40440 ,   nt_PnpRuntimeDxe
+
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+BDCE85BB-FBAA-4F4E-9264-501A2C249581 ,   S3SaveStateDxe
+
+     ======>    E857CAF6-C046-45DC-BE3F-EE0765FBA887 , gEfiS3SaveStateProtocolGuid                       
+
+=================================================================================================================
+
+BC05DC37-9DA0-4050-9728-F34DDB01E200 ,   BiosRegionLockDxe
+
+     ======>    E687E50B-C98D-4780-A7B0-E4C7C4AF7F69 , N/A                                               
+
+=================================================================================================================
+
+44A20657-10B8-4049-A148-ACD8812AF257 ,   nt_Tcg2Smm
+
+     ======>    4D38CC39-D90D-4E03-9E02-297945EAC4FD , N/A                                               
+
+=================================================================================================================
+
+697CFA95-B1F2-4ED7-A0D2-7AC6E47B3C99 ,   SwitchableGraphicsDxe
+
+     ======>    BB210948-3101-4CEF-8D1D-3FE55E6153B4 , N/A                                               
+     ======>    4D96C24C-0CB7-4650-917C-3B0B70A67FBA , N/A                                               
+
+=================================================================================================================
+
+74C83F3A-5EE3-4EB7-B945-702B839FB1A6 ,   DxePlatform
+
+     ======>    4DF19259-DC71-4D46-BEF1-357BB578C418 , nt_EFI_PS2_POLICY_PROTOCOL_GUID                   
+     ======>    074E1E48-8132-47A1-8C2C-3F14AD9A66DC , nt_EFI_GLOBAL_NVS_AREA_PROTOCOL_GUID              
+     ======>    13F40F6E-50C1-4B73-B1E2-6E72D21CB04A , nt_gEfiKeyMonPlatformProtocolGuid                 
+
+=================================================================================================================
+
+9B0FF2C0-E245-11E1-8EFF-D0DF9A35C106 ,   nt_ChipsetSvcDxe
+
+     ======>    107A772C-D5E1-11D4-9A46-0090273FC14D , gEfiComponentNameProtocolGuid                     
+     ======>    5C198761-16A8-4E69-972C-89D67954F81D , gEfiDriverSupportedEfiVersionProtocolGuid         
+
+=================================================================================================================
+
+1314216C-CB8D-421C-B854-06231386E642 ,   PlatformInfoDxe
+
+     ======>    D9035175-8CE2-47DE-A8B8-CC98E5E2A885 , nt_EFI_PLATFORM_INFO_PROTOCOL_GUID                
+
+=================================================================================================================
+
+FF0C8745-3270-4439-B74F-3E45F8C77064 ,   IntelGopDriver
+
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+     ======>    DBCB2FCD-E29A-410E-9DD9-FA9D5FF4CDA7 , N/A                                               
+     ======>    651B7EBD-CE13-41D0-82E5-A063ABBE9BB6 , nt_gGopComponentName2ProtocolGuid                 
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    1C0C34F6-D380-41FA-A049-8AD06C1A66AA , gEfiEdidDiscoveredProtocolGuid                    
+     ======>    F51DD33A-E57F-4020-B466-F4C171C6E4F7 , N/A                                               
+     ======>    6FF23F1D-877C-4B1B-93FC-F142B2EEA6A7 , nt_EFI_GOP_DISPLAY_BRIGHTNESS_PROTOCOL            
+     ======>    BD8C1056-9F36-44EC-92A8-A6337F817986 , gEfiEdidActiveProtocolGuid                        
+     ======>    C7D4703B-0F36-4E51-A983-5E61ACB8683C , N/A                                               
+     ======>    30249499-98F6-46EB-A842-29D9F7F08F3E , N/A                                               
+
+=================================================================================================================
+
+AA48FBB2-9F87-4DFD-B416-575938F0C8F4 ,   nt_PropertiesTableAttributesDxe
+
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+9FB1A1F3-3B71-4324-B39A-745CBB015FFF ,   nt_Ip4Dxe
+
+     ======>    41D94CD2-35B6-455A-8258-D4E51334AADD , gEfiIp4ProtocolGuid                               
+     ======>    C51711E7-B4BF-404A-BFB8-0A048EF1FFE4 , gEfiIp4ServiceBindingProtocolGuid                 
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+578C3195-D8C1-44F1-8A06-2B592FBE6AF3 ,   TouchInputFilterDriver
+
+     ======>    2599ED9D-61EE-4E32-9257-9C7C0D9C40A3 , N/A                                               
+     ======>    5C198761-16A8-4E69-972C-89D67954F81D , gEfiDriverSupportedEfiVersionProtocolGuid         
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+FCCCE259-07E1-417A-A755-E0F2CF39295E ,   CpuInitDxe
+
+     ======>    E223CF65-F6CE-4122-B3AF-4BD18AFF40A1 , nt_DXE_CPU_INFO_PROTOCOL_GUID                     
+     ======>    26BACCB1-6F42-11D4-BCE7-0080C73C8881 , gEfiCpuArchProtocolGuid                           
+     ======>    AB5A4DF4-F0D7-49A8-BF5C-F25DA04C2533 , nt_gCpuGlobalNvsAreaProtocolGuid                  
+     ======>    3FDDA605-A76E-4F46-AD29-12F4531B3D08 , gEfiMpServiceProtocolGuid                         
+
+=================================================================================================================
+
+DE23ACEE-CF55-4FB6-AA77-984AB53DE823 ,   PchInitDxe
+
+     ======>    984EB4E9-5A95-41DE-AAD0-53668CA513C0 , nt_EFI_PCH_INFO_PROTOCOL_GUID                     
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    10FE7E3B-DBE5-4CFA-9025-4002CFDDBB89 , nt_gPchEmmcTuningProtocolGuid                     
+     ======>    2E058B2B-EDC1-4431-87D9-C6C4EA102BE3 , nt_gPchNvsAreaProtocolGuid                        
+
+=================================================================================================================
+
+4495E47E-42A9-4007-8C17-B6664F909D04 ,   BlockIoDxe
+
+     ======>    964E5B21-6459-11D2-8E39-00A0C969723B , gEfiBlockIoProtocolGuid                           
+     ======>    2E3044AC-879F-490F-9760-BBDFAF695F50 , nt_EFI_LEGACY_BIOS_GUID                           
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+683732B5-2A38-43A8-9CE2-02CD7250DCD9 ,   A01BootDeviceServiceDxe
+
+     ======>    6C4D69E9-6699-4468-A9E1-6941F38AC189 , N/A                                               
+
+=================================================================================================================
+
+C194C6EA-B68C-4981-B64B-9BD271474B20 ,   PchSpiRuntime
+
+     ======>    00C7D289-1347-4DE0-BF42-0E269D0EF34A , nt_gPchSpiProtocolGuid                            
+
+=================================================================================================================
+
+BB65942B-521F-4EC3-BAF9-A92540CF60D2 ,   SataController
+
+     ======>    BB929DA9-68F7-4035-B22C-A3BB3F23DA55 , nt_PCH_SATA_CONTROLLER_DRIVER_GUID                
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+27BEDA18-AE2B-43C2-AF6B-74952441DE28 ,   nt_MonitorKeyDxe
+
+     ======>    9E43E128-C74D-42F4-8C0C-4811674A17B5 , nt_gEfiMonitorKeyFilterProtocolGuid               
+
+=================================================================================================================
+
+310B3904-0728-4977-A90C-06B8ECD85A9F ,   nt_BootOptionService
+
+     ======>    DFA12548-FACE-64AC-FFEA-31CA42ACBACC , N/A                                               
+
+=================================================================================================================
+
+2D2E62AA-9ECF-43B7-8219-94E7FC713DFE ,   UsbMouseDxe
+
+     ======>    31878C87-0B75-11D5-9A4F-0090273FC14D , gEfiSimplePointerProtocolGuid                     
+     ======>    18A031AB-B443-4D1A-A5C0-0C09261E9F71 , gEfiDriverBindingProtocolGuid                     
+
+=================================================================================================================
+
+6B1AB225-2E47-4A61-8FF5-B8EA42EE3EA8 ,   nt_SecureFlashDxe
+
+     ======>    CC5B20B9-DA0A-4164-83FE-04BF0802F250 , N/A                                               
+     ======>    09576E91-6D3F-11D2-8E39-00A0C969723B , gEfiDevicePathProtocolGuid                        
+     ======>    AAB3064F-56D9-46A3-8EBA-1B188E7F835A , N/A                                               
+     ======>    2719F233-DD1A-ABCD-A9DC-AAE07B6788F2 , N/A                                               
+     ======>    D1D417D5-5264-4369-A383-F5F3C6194928 , N/A                                               
+
+=================================================================================================================
+
+C613EC78-63ED-4B93-ACD4-54B3D4CCC268 ,   nt_NetworkLockerDxe
+
+     ======>    0D5E6BAD-C9B5-47C2-B788-C756BE54EADD , N/A                                               
+     ======>    45D54528-70F9-467C-BADC-B1E975265E90 , N/A                                               
